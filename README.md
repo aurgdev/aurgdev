@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed El argoubi</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">A passionate web developer</h3>
 
 - 🌱 I’m currently learning **Typescrippt**
 
